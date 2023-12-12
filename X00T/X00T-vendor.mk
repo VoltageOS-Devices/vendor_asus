@@ -1300,7 +1300,6 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     QtiTelephonyService \
     colorservice \
-    datastatusnotification \
     imssettings \
     uceShimService \
     dpmserviceapp \
